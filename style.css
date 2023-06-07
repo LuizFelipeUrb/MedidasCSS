@@ -1,0 +1,32 @@
+.PrimeiraSessao_em {
+  width: 400px;
+  height: 400px;
+  background-color: darkorange;
+  font-size: 10px;
+}
+.PrimeiraSessao_em div {
+  width: 250px;
+  height: 250px;
+  background-color: maroon;
+  font-size: 2em;
+}
+.segundaSessao_rem {
+  width: 400px;
+  height: 400px;
+  background-color: mediumorchid;
+  font-size: 2rem;
+}
+.terceiraSessao_porcentagem {
+  width: 400px;
+  height: 400px;
+  background-color: pink;
+}
+.terceiraSessao_porcentagem div {
+  width: 100%;
+  height: 90%;
+  background-color: salmon;
+}
+.quartasessa_vw_vh {
+  width:400px ;
+  height: ; 400px
+}
